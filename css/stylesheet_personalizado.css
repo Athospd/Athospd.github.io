@@ -1,0 +1,50 @@
+/* Alterações do stylesheet.css */
+
+#header_wrap {
+  background: #343A47;
+  /*background: -moz-linear-gradient(top, #343A47, #343A47);
+  background: -webkit-linear-gradient(top, #343A47, #343A47);
+  background: -ms-linear-gradient(top, #343A47, #343A47);
+  background: -o-linear-gradient(top, #343A47, #343A47);
+  background: linear-gradient(top, #343A47, #343A47);*/
+}
+
+#project_title {
+  margin: 0;
+  color: #fff;
+  font-size: 42px;
+  font-weight: 700;
+  text-shadow: #BE9641 0px 0px 10px;
+}
+
+#project_tagline {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 300;
+  background: none;
+  text-shadow: #BBA876 0px 0px 8px;
+}
+
+#footer_wrap {
+  background: #343A47;
+}
+
+#main_content_wrap {
+  background: #f2f2f2;
+  border-top: 1px solid #B87107;
+  border-bottom: 1px solid #B87107;
+}
+
+a i {
+  color:#fff;
+  text-shadow: #BBA876 0px 0px 8px;
+  margin: 0 7px;
+}
+
+a i:hover{
+  text-shadow: #fff 0px 0px 10px;
+}
+
+#contato a {
+  text-decoration: none;
+}
