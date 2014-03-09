@@ -31,7 +31,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3114,
+				"buffer_size": 3119,
 				"line_ending": "Windows"
 			}
 		}
@@ -104,7 +104,7 @@
 	],
 	"find":
 	{
-		"height": 43.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -156,15 +156,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3114,
+						"buffer_size": 3119,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								997,
-								997
+								993,
+								993
 							]
 						],
 						"settings":
@@ -174,7 +174,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 300.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -221,7 +221,7 @@
 	"project": "athossite.sublime-project",
 	"replace":
 	{
-		"height": 80.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
