@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://athospd.github.io/athosdamiani/sitemap.xml
